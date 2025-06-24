@@ -35,7 +35,7 @@ export default function InstaCard() {
         {/* Title Section */}
         <CardHeader className="p-0 mt-2 text-center">
           <CardDescription className="font-semibold text-[#d4d4d4] dark:text-gray-100 text-sm line-clamp-2 leading-tight ">
-            {/* {deal.title} */} Men's Adjustable Tint Polarized Sunglasses
+            {/* {deal.title} */} Mens Adjustable Tint Polarized Sunglasses
           </CardDescription>
         </CardHeader>
 
